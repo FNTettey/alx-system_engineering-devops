@@ -1,0 +1,1 @@
+Working with env in bash scriptsXS
