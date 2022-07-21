@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Displays Best School 10 times using an until loop
  
-n=o
+n=0
 until [ $n -gt 9 ];
 do
     echo "Best School"
